@@ -1,0 +1,42 @@
+.Rodape{
+    display: block;
+    background-color: #6278f7;
+    text-align: center;
+    width: 100%;
+    height: 35px;
+    
+}
+
+.Rodape .social{
+    float:left; 
+    width:32%;     
+    height:31px; 
+}
+
+.Rodape .social img{
+    height: 16px;
+    width: 16px;
+    padding: 10px;
+}
+
+.Rodape .label{
+    float: left;
+    color: white;
+    font-weight: 700;
+    width:32%;     
+    height:31px;    
+}
+
+.Rodape .imagem{
+    float: left;
+    color: white;
+    font-weight: 700;
+    width:32%;     
+    height:31px;    
+}
+
+.Rodape .logo{
+    float: left;        
+    padding: 20px;
+    
+}
